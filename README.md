@@ -18,6 +18,7 @@ Docker Compose を利用して手軽に構築できる、シンプルな画像�
 ## ディレクトリ構成
 
 ec2-user/
+
 ├── Dockefile
 
 ├── compose.yml
